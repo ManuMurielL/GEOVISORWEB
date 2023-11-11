@@ -1,2 +1,3 @@
 # GEOVISORWEB
-Geovisor Web de la comuna 14 de Santiago de Cali
+##Geovisor Web de la comuna 14 de Santiago de Cali
+El proyecto "GEOVISOR WEB DE EQUIPAMIENTOS DE LA COMUNA 14 DE SANTIAGO DE CALI" busca implementar una plataforma interactiva y accesible para visualizar capas y geoservicios que representan la diversa infraestructura de la comuna. Este geovisor permitirá a la comunidad y a las autoridades locales explorar de manera integral parques, centros educativos, instalaciones de salud, red de drenajes de alcantarillado y servicios de bienestar social para la comunidad. La herramienta facilitará la participación ciudadana, y se diseñará para ser compatible con diversos dispositivos y navegadores. Además, puede ser integrada con sistemas de información geográfica existentes para una gestión eficiente de los datos geoespaciales.
